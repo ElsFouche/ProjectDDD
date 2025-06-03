@@ -1,0 +1,6 @@
+,Health,Focus,Morale,PhysAtk,PhysDef,MagAtk,MagDef,Move,Jump,Speed
+Generic,30,10,100,5,5,5,5,3,3,9
+,,,,,,,,,,
+Knight-Shadow,30,10,100,5,5,5,5,4,4,9
+Monster,40,0,100,5,5,5,5,4,4,11
+Outsider,30,15,100,5,5,5,5,3,3,10
