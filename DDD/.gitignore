@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Starter Content
 */StarterContent
+*/_StarterContent
+*/_Local
