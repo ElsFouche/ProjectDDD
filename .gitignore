@@ -4,3 +4,4 @@ DDD/.ignore
 DDD/.vscode
 DDD/.vscode/*
 DDD/Config/DefaultEditorPerProjectUserSettings.ini
+.DS_Store
