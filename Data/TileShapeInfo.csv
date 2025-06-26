@@ -56,4 +56,4 @@ Row Name,TileShape,isStandable,CharacterHeight,EdgeHeightNorth,EdgeHeightEast,Ed
 2221xh,2221xh,FALSE,100,100,100,75,75,FALSE,FALSE,/Game/Assets/StaticMeshes/Tiles/Tile_2221xh.Tile_2221xh,FALSE,FALSE
 2221xs,2221xs,FALSE,100,100,100,75,75,FALSE,TRUE,/Game/Assets/StaticMeshes/Tiles/Tile_2221xs.Tile_2221xs,FALSE,FALSE
 2222,2222,TRUE,100,100,100,100,100,TRUE,TRUE,/Game/Assets/StaticMeshes/Tiles/Tile_2222.Tile_2222,FALSE,FALSE
-wall,wall,FALSE,100,10000,0,0,0,FALSE,TRUE,/Game/Assets/StaticMeshes/Tiles/Tile_wall.Tile_wall,TRUE,TRUE
+wall,wall,FALSE,100,10000,0,0,0,FALSE,TRUE,/Game/Assets/StaticMeshes/Tiles/Tile_wall.Tile_wall,FALSE,FALSE
